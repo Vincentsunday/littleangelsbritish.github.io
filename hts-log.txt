@@ -1,0 +1,87 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 11 Apr 2024 16:53:23 at https://www.littleangels.com.ng/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.littleangels.com.ng/ -O1 "C:\Users\sunny\Desktop\little angels site" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:54:27	Error: 	"Method Not Allowed" (405) at link https://www.littleangels.com.ng/xmlrpc.php (from https://www.littleangels.com.ng/)
+16:54:52	Error: 	"Bad Request" (400) at link https://www.littleangels.com.ng/wp-admin/admin-ajax.php (from https://www.littleangels.com.ng/)
+16:55:27	Error: 	"FORBIDDEN" (403) at link checkout.stripe.com/checkout.js (from https://www.littleangels.com.ng/)
+16:55:27	Error: 	"Bad Request" (400) at link https://www.littleangels.com.ng/wp-admin/admin-ajax.php?action=rest-nonce (from https://www.littleangels.com.ng/)
+16:55:29	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=12626
+16:55:29	Warning: 	File has moved from https://www.littleangels.com.ng/?p=12626 to https://www.littleangels.com.ng/about/
+16:55:32	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=87
+16:55:32	Warning: 	File has moved from https://www.littleangels.com.ng/?p=87 to https://www.littleangels.com.ng/contact/
+16:55:32	Error: 	"Not Found" (404) at link https://www.littleangels.com.ng/wp-content/uploads/2022/12/eduma-cover-banner-17.jpg (from https://www.littleangels.com.ng/contact/)
+16:55:32	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=37
+16:55:32	Warning: 	File has moved from https://www.littleangels.com.ng/?p=37 to https://www.littleangels.com.ng/login-2/
+16:55:40	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=3208
+16:55:40	Warning: 	File has moved from https://www.littleangels.com.ng/?p=3208 to https://www.littleangels.com.ng/events/learn-to-write-flash-fiction/
+16:55:40	Error: 	"Not Found" (404) at link https://www.littleangels.com.ng/wp-content/uploads/2022/12/eduma-cover-banner-18.jpg (from https://www.littleangels.com.ng/events/learn-to-write-flash-fiction/)
+16:55:42	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=3062
+16:55:42	Warning: 	File has moved from https://www.littleangels.com.ng/?p=3062 to https://www.littleangels.com.ng/events/applying-natural-laws-to-technology-and-society/
+16:55:42	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=3063
+16:55:42	Warning: 	File has moved from https://www.littleangels.com.ng/?p=3063 to https://www.littleangels.com.ng/events/managing-time-for-study/
+16:55:49	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=4520
+16:55:49	Warning: 	File has moved from https://www.littleangels.com.ng/?p=4520 to https://www.littleangels.com.ng/2022/09/20/back-to-school-in-the-new-year/
+16:55:51	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=130
+16:55:51	Warning: 	File has moved from https://www.littleangels.com.ng/?p=130 to https://www.littleangels.com.ng/2021/10/18/becoming-a-better-designer/
+16:55:58	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=4519
+16:55:58	Warning: 	File has moved from https://www.littleangels.com.ng/?p=4519 to https://www.littleangels.com.ng/2022/09/20/childrens-social-service-referrals-from-schools-soar-to-record-high/
+16:56:01	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=4522
+16:56:01	Warning: 	File has moved from https://www.littleangels.com.ng/?p=4522 to https://www.littleangels.com.ng/2022/10/20/data-details-test-score-drops/
+16:56:01	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=128
+16:56:01	Warning: 	File has moved from https://www.littleangels.com.ng/?p=128 to https://www.littleangels.com.ng/2021/10/18/hackers-harass-children-in-online-classrooms/
+16:56:08	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=1
+16:56:08	Warning: 	File has moved from https://www.littleangels.com.ng/?p=1 to https://www.littleangels.com.ng/2023/11/18/hello-world/
+16:56:08	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=4521
+16:56:08	Warning: 	File has moved from https://www.littleangels.com.ng/?p=4521 to https://www.littleangels.com.ng/2022/09/20/what-states-spend-on-students/
+16:56:08	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=2958
+16:56:08	Warning: 	File has moved from https://www.littleangels.com.ng/?p=2958 to https://www.littleangels.com.ng/account/
+16:56:08	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=39
+16:56:08	Warning: 	File has moved from https://www.littleangels.com.ng/?p=39 to https://www.littleangels.com.ng/password-reset/
+16:56:08	Error: 	"Not Found" (404) at link https://www.littleangels.com.ng/wp-content/plugins/wp-events-manager/assets/css/fonts/icomoon.eot?c3wvz6 (from https://www.littleangels.com.ng/wp-content/plugins/wp-events-manager/assets//css/frontend/events.min.css?ver=6.5.2)
+16:56:08	Error: 	"Not Found" (404) at link https://www.littleangels.com.ng/wp-content/plugins/wp-events-manager/assets/css/fonts/icomoon.ttf?c3wvz6 (from https://www.littleangels.com.ng/wp-content/plugins/wp-events-manager/assets//css/frontend/events.min.css?ver=6.5.2)
+16:56:08	Error: 	"Not Found" (404) at link https://www.littleangels.com.ng/wp-content/plugins/wp-events-manager/assets/css/fonts/icomoon.woff?c3wvz6 (from https://www.littleangels.com.ng/wp-content/plugins/wp-events-manager/assets//css/frontend/events.min.css?ver=6.5.2)
+16:56:08	Error: 	"Not Found" (404) at link https://www.littleangels.com.ng/wp-content/plugins/wp-events-manager/assets/css/fonts/icomoon.svg?c3wvz6 (from https://www.littleangels.com.ng/wp-content/plugins/wp-events-manager/assets//css/frontend/events.min.css?ver=6.5.2)
+16:56:08	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=73
+16:56:08	Warning: 	File has moved from https://www.littleangels.com.ng/?p=73 to https://www.littleangels.com.ng/user-login/
+16:56:08	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=2952
+16:56:08	Warning: 	File has moved from https://www.littleangels.com.ng/?p=2952 to https://www.littleangels.com.ng/events/build-education-website-using-wordpress/
+16:56:09	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=2948
+16:56:09	Warning: 	File has moved from https://www.littleangels.com.ng/?p=2948 to https://www.littleangels.com.ng/events/introduction-to-study-skills/
+16:56:09	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=3374
+16:56:09	Warning: 	File has moved from https://www.littleangels.com.ng/?p=3374 to https://www.littleangels.com.ng/events/building-assignment-writing-skills/
+16:56:09	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=2953
+16:56:09	Warning: 	File has moved from https://www.littleangels.com.ng/?p=2953 to https://www.littleangels.com.ng/events/change-career-to-teaching/
+16:56:10	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=2951
+16:56:10	Warning: 	File has moved from https://www.littleangels.com.ng/?p=2951 to https://www.littleangels.com.ng/events/data-science-and-fake-news/
+16:56:14	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=3699
+16:56:14	Warning: 	File has moved from https://www.littleangels.com.ng/?p=3699 to https://www.littleangels.com.ng/2022/01/20/tips-to-succeed-in-an-online-course/
+16:56:14	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=4518
+16:56:14	Warning: 	File has moved from https://www.littleangels.com.ng/?p=4518 to https://www.littleangels.com.ng/2022/05/25/the-project-harnessing-the-power-of-sport-to-change-childrens-lives/
+16:56:14	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=4517
+16:56:14	Warning: 	File has moved from https://www.littleangels.com.ng/?p=4517 to https://www.littleangels.com.ng/2022/05/17/our-classes/
+16:56:14	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=4510
+16:56:14	Warning: 	File has moved from https://www.littleangels.com.ng/?p=4510 to https://www.littleangels.com.ng/2022/03/07/making-a-home-for-students/
+16:56:16	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=4515
+16:56:16	Warning: 	File has moved from https://www.littleangels.com.ng/?p=4515 to https://www.littleangels.com.ng/2022/07/22/high-school-exam-the-most-testing-of-times/
+16:56:16	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=4516
+16:56:16	Warning: 	File has moved from https://www.littleangels.com.ng/?p=4516 to https://www.littleangels.com.ng/2022/05/23/our-books/
+16:56:16	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=4514
+16:56:16	Warning: 	File has moved from https://www.littleangels.com.ng/?p=4514 to https://www.littleangels.com.ng/2022/03/11/the-importance-of-higher-education/
+16:56:16	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=4512
+16:56:16	Warning: 	File has moved from https://www.littleangels.com.ng/?p=4512 to https://www.littleangels.com.ng/2022/05/07/private-school-pupils-twice-as-likely-to-need-top-grades-for-some-universities/
+16:56:16	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=4513
+16:56:16	Warning: 	File has moved from https://www.littleangels.com.ng/?p=4513 to https://www.littleangels.com.ng/2022/03/07/major-private-gifts-to-higher-education/
+16:56:16	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=3698
+16:56:16	Warning: 	File has moved from https://www.littleangels.com.ng/?p=3698 to https://www.littleangels.com.ng/2022/01/20/online-learning-glossary/
+16:56:16	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=3697
+16:56:16	Warning: 	File has moved from https://www.littleangels.com.ng/?p=3697 to https://www.littleangels.com.ng/2022/01/20/when-big-data-goes-to-schol/
+16:56:16	Warning: 	Moved Permanently for https://www.littleangels.com.ng/?p=3696
+16:56:16	Warning: 	File has moved from https://www.littleangels.com.ng/?p=3696 to https://www.littleangels.com.ng/2022/01/20/why-you-should-read-every-day/
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 53 seconds : 404 links scanned, 360 files written (19579880 bytes overall) [10620786 bytes received at 61391 bytes/sec], 12898231 bytes transferred using HTTP compression in 225 files, ratio 24%, 11.7 requests per connection
+(10 errors, 66 warnings, 0 messages)

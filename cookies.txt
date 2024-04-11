@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.paystack.co	TRUE	/	FALSE	1999999999	__cf_bm	Jzdf4Rqdj3cjEcWD.uA4uq7JogT2Pg58kVPo57CX.CM-1712850854-1.0.1.1-ef7HUplgCEdyd4wIieXWw7.ZTOn3muDNdankz2WeDcbF6mGs3rcnyTTFICQIwnKyGsRWR1G2xgXjqafFySB5wQ
+js.paystack.co	TRUE	/	FALSE	1999999999	SameSite	None
+
